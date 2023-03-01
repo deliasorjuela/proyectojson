@@ -1,0 +1,41 @@
+{
+    "NombreEscuadron" : "Supercampeones",
+    "CiudadNatal" : "Ciudad Capital",
+    "Formado" : 2023,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "nombre" : "Hombre Molecular",
+        "Edad" : 32,
+        "IdentidadSecreta" : "Bob Ross",
+        "poderes" : [
+          "Resistencia a la radiación",
+          "Volviéndose diminuto",
+          "Explosión de radiación"
+        ]
+      },
+      {
+        "nombre" : "Señorita Cortadora",
+        "Edad" : 27,
+        "IdentidadSecreta" : "Acertijo",
+        "poderes" : [
+          "Ponche de un millón de toneladas",
+          "Resistencia al daño",
+          "Reflejos sobrehumanos"
+        ]
+      },
+      {
+        "nombre" : "Flama Megaeterna",
+        "Edad" : 29,
+        "IdentidadSecreta" : "Desconocid@",
+        "poderes" : [
+          "Inmortalidad",
+          "Inmunidad al calor",
+          "Infierno",
+          "Teletransportación",
+          "Viaje interdimensional"
+        ]
+      }
+    ]
+  }
